@@ -72,9 +72,7 @@ This analysis highlights that customer spending on delivery platforms varies mea
 <br>
 <br>
 
-### Final Question: 
 
-Leave a comment with your thoughts or questions!
 
 
 
