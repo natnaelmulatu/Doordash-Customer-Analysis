@@ -34,7 +34,7 @@ The 51–65 group turned out to be the main engine for revenue, contributing abo
 
 <br>
 
-![Logo](images/Average_Amount_Spent.png)
+<img src="images/Average_Amount_Spent.png" alt="Logo" width="800">
 
 ### Income Matters More Than Age Alone 
 
@@ -42,7 +42,7 @@ When I looked at correlations, age had only a slight connection to higher spendi
 
 <br>
 
-![Logo](images/Number_of_Customers_Joined_By_Month.png)
+<img src="images/Number_of_Customers_Joined_By_Month.png" alt="Logo" width="800">
 
 
 ### When Do Customers Join?
@@ -51,7 +51,7 @@ Signups peaked in January and March, then dropped off in December. This points t
 
 <br>
 
-![Logo](images/Month_Joined_by_Chart.png) 
+<img src="images/Month_Joined_by_Chart.png" alt="Logo" width="800">
 
  
 ### The “Sandwich Generation” Surprised Me
