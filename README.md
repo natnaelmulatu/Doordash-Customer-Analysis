@@ -34,7 +34,7 @@ The 51–65 group turned out to be the main engine for revenue, contributing abo
 
 <br>
 
-<img width="674" height="353" alt="Average Amount Spent" src="https://github.com/user-attachments/assets/213fa993-91f2-4d7d-a99c-fcfa78497501" />
+![Logo](images/Average Amount Spent.png)
 
 ### Income Matters More Than Age Alone 
 
@@ -42,7 +42,6 @@ When I looked at correlations, age had only a slight connection to higher spendi
 
 <br>
 
-<img width="661" height="492" alt="Screenshot 2026-07-06 at 11 48 48 AM" src="https://github.com/user-attachments/assets/f16e6c52-2552-467e-90aa-c78e405401c2" />
 
 ### When Do Customers Join?
 
