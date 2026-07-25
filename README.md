@@ -1,4 +1,4 @@
-![Cover](images/Doordash_Excel_Project_Cover.png)
+<img src="images/Doordash_Excel_Project_Cover.png" alt="Logo" width="1000">
 
 # The $1M Demographics Trap: How Misreading Customer Age Is Costing Delivery Platforms Millions
 
