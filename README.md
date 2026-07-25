@@ -51,7 +51,9 @@ Signups peaked in January and March, then dropped off in December. This points t
 
 <br>
 
+![Logo](images/Month_Joined_by_Chart.png) 
 
+ 
 ### The “Sandwich Generation” Surprised Me
 
 The biggest surprise was the underperformance of the 36–50 group. Despite being in their prime working years and heavily using digital apps, they spent less than every other age group. One possible reason is that this group is often supporting both children and older family members, which may limit their discretionary spending.
