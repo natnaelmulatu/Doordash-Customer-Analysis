@@ -34,13 +34,15 @@ The 51–65 group turned out to be the main engine for revenue, contributing abo
 
 <br>
 
-![Logo](images/Average Amount Spent.png)
+![Logo](images/Average_Amount_Spent.png)
 
 ### Income Matters More Than Age Alone 
 
 When I looked at correlations, age had only a slight connection to higher spending. Income, on the other hand, had a much stronger link. Older customers tend to spend more, but it’s because they have higher average incomes.
 
 <br>
+
+![Logo](images/Average_Amount_Spent.png)
 
 
 ### When Do Customers Join?
@@ -49,7 +51,6 @@ Signups peaked in January and March, then dropped off in December. This points t
 
 <br>
 
-<img width="645" height="400" alt="Month Joined by Chart" src="https://github.com/user-attachments/assets/30725dd6-6c51-4105-9d6f-65f17fa181be" />
 
 ### The “Sandwich Generation” Surprised Me
 
