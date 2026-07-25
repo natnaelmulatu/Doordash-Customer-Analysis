@@ -42,7 +42,7 @@ When I looked at correlations, age had only a slight connection to higher spendi
 
 <br>
 
-![Logo](images/Average_Amount_Spent.png)
+![Logo](images/Number_of_Customers_Joined_By_Month.png)
 
 
 ### When Do Customers Join?
