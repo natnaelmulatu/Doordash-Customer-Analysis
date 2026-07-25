@@ -1,4 +1,4 @@
-![Cover](images/cover.png)
+![Cover](images/Doordash_Excel_Project_Cover.png)
 
 # The $1M Demographics Trap: How Misreading Customer Age Is Costing Delivery Platforms Millions
 
